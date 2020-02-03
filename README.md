@@ -10,6 +10,9 @@ dictionary: a rock rocks star stars tar
 
 
 rock => rock
+
 rockstar    => "rock" "star" OR "rocks" "tar"
+
 zebra       => no valid split
+
 rockstartar => no valid split  “rock” star tar | rocks tar tar aa
